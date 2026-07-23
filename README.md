@@ -25,6 +25,10 @@ Students struggle to find information about admissions, fees, hostel, and placem
 - Gemini fallback for genuinely out-of-scope questions
 - Streamlit web interface with chat history
 
+## 📸 Project Demo
+
+![SVECW College Chatbot](images/chatbot-demo.png)
+
 ### ▶️ How to Run
 ```bash
 git clone https://github.com/Harika521039/college-chatbot.git
